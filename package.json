@@ -34,6 +34,7 @@
   "name": "aframe-stereo-cylinder",
   "author": "Benny (Kim Wooseok)",
   "module": "dist/aframe-video-cylinder2.esm.js",
+  "homepage": "https://github.com/VVSOGI/aframe-stereo-cylinder",
   "size-limit": [
     {
       "path": "dist/aframe-video-cylinder2.cjs.production.min.js",
